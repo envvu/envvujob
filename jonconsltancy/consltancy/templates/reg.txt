@@ -1,0 +1,58 @@
+                                          contact details
+
+candidates name:
+{{name}}
+
+
+Email:
+{{email}}
+
+Gender:
+{{gender}}
+
+Date of birth:
+{{dob}}
+
+Marital status:
+{{status}}
+
+Phone number:
+{{number}}
+
+Address :
+{{address}}
+
+City:
+{{city}}
+
+position for looking:
+{{position}}
+
+Highest qualification:
+{{qualification}}
+
+year of passing:
+{{year}}
+
+
+Specialization :
+{{spcl}}
+
+Functional area:
+{{area}}
+
+if others specify:
+{{sp}}
+
+Work experience:
+{{exp}}
+
+Current industry:
+{{industry}}
+
+Expected salary:
+{{salary}}
+
+
+resume:
+{{cv}}
